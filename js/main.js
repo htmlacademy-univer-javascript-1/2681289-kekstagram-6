@@ -26,7 +26,7 @@ const effectLevelValue = effectLevelContainer.querySelector('.effect-level__valu
 const scaleControlValue = uploadForm.querySelector('.scale__control--value');
 const scaleButtonSmaller = uploadForm.querySelector('.scale__control--smaller');
 const scaleButtonBigger = uploadForm.querySelector('.scale__control--bigger');
-
+ds
 const effectsList = uploadForm.querySelector('.effects__list');
 const effectNoneControl = uploadForm.querySelector('#effect-none');
 
