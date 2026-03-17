@@ -93,7 +93,7 @@ let currentFilterId = 'filter-default';
 
 let shownCommentsCount = 0;
 let activeComments = [];
-
+let ffe=0
 const pristine = new Pristine(uploadForm, {
   classTo: 'img-upload__field-wrapper',
   errorTextParent: 'img-upload__field-wrapper',
