@@ -111,6 +111,7 @@ const createDebounce = (callback, timeoutDelay = 500) => {
   };
 };
 const l=8
+const fwe=2
 const getHashtags = () => hashtagInput.value
   .trim()
   .split(/\s+/)
